@@ -1,4 +1,4 @@
-# Netflix_Stock_Analysis_Using_Python
+# Netflix Stock Analysis Using Python
 
 ✔ Objective: The objective of this analysis is to evaluate the stock performance of Netflix by analyzing key financial trends, identifying fluctuations in stock prices, and deriving meaningful insights using Python.
 
